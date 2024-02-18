@@ -1,0 +1,8 @@
+../Core/Src/MotorsDriver/motorsdriver.cpp:10:1:MotorsDriver::MotorsDriver()	16	static
+../Core/Src/MotorsDriver/motorsdriver.cpp:15:1:MotorsDriver::~MotorsDriver()	16	static
+../Core/Src/MotorsDriver/motorsdriver.cpp:15:1:virtual MotorsDriver::~MotorsDriver()	16	static
+../Core/Src/MotorsDriver/motorsdriver.cpp:20:6:void MotorsDriver::init()	16	static
+../Core/Src/MotorsDriver/motorsdriver.cpp:39:6:void MotorsDriver::escIngnition(MotorsDriver::MotorChannel)	16	static
+../Core/Src/MotorsDriver/motorsdriver.cpp:44:6:void MotorsDriver::motorIgnition(MotorsDriver::MotorChannel)	16	static
+../Core/Src/MotorsDriver/motorsdriver.cpp:49:6:void MotorsDriver::motorPowerOff(MotorsDriver::MotorChannel)	16	static
+../Core/Src/MotorsDriver/motorsdriver.cpp:54:6:void MotorsDriver::motorThrottle(MotorsDriver::MotorChannel, uint16_t)	16	static
